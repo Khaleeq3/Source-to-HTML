@@ -1,1 +1,2 @@
 # Source-to-HTML
+Given input code (in this project input given as C program) the convertor should make it into an HTML based output that can be read by a browser. In popular syntax high lighter based solutions / tools such mechanisms are internally used, thereby making code walkthrough easier. Reserved key words, preprocessor directives, numerical constants, strings etc must be displayed in pre-defined color.
